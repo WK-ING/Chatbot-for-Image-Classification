@@ -80,7 +80,7 @@ connection, and pass the request to a queue.
 ## Usage
 1. Replace the ``your_token`` field in ``line 217`` and ``line 21`` of ``bot.py`` with your own bot's token.
 2. Run ``server.py`` and ``bot.py``.
-3. Open Telegram app, find your own bot, send messages to your it. 
+3. Open Telegram app, find your own bot, send messages to it. 
 
 ## Demo
 ![image](/image/start-demo.png)
